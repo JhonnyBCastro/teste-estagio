@@ -181,5 +181,10 @@ Próximo número: 20
 <br>
 
 ### Questão 5:
-> exemplo: interrupotres( A, B, C)
-- ligaria o interruptor `A` por um tempo e depois o desligaria, deixaria o interrupor `B` ligado e o `C` desligado e no momento de visitar a sala verificaria o estado das lampadas.
+> exemplo: interrupitores( A, B, C)  
+
+Ligaria o interruptor `A` por um tempo e depois o desligaria, deixaria o interrupor `B` ligado e o `C` desligado, e no momento de visitar a sala verificaria o estado das lampadas.
+
+- A lâmpada que estiver acesa corresponde ao interruptor B.
+- A lâmpada que estiver quente, mas apagada, corresponde ao interruptor A.
+- A lâmpada fria e apagada corresponde ao interruptor C
